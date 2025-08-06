@@ -24,3 +24,4 @@ nix profile install github:yourusername/hidamari-flake
     inputs.hidamari.packages.${system}.default
   ];
 }
+# hidamari-flake
