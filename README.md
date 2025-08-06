@@ -17,7 +17,7 @@ nix profile install github:novazen111/hidamari-flake
 
 # Add to NixOS configuration
 {
-  inputs.hidamari.url = "github:yourusername/hidamari-flake";
+  inputs.hidamari.url = "github:novazen111/hidamari-flake";
   
   # In your system packages
   environment.systemPackages = [
