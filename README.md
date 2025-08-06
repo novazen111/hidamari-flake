@@ -25,3 +25,4 @@ nix profile install github:yourusername/hidamari-flake
   ];
 }
 # hidamari-flake
+# hidamari-flake
